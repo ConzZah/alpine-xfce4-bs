@@ -26,6 +26,16 @@ I'll say it again,
 - this is in **BETA**
 - i do this **because i have fun with it, i ain't getting paid bro.** if something breaks, let me know, and i'll see if i find time.
 
+### addendum:
+
+this is basically the same set of files as in my custom image: alpine-xfce4raspi,
+
+but without the raspi-specific patches / fixes.
+
+it also uses the same dotfiles as alpine-xfce4raspi,
+
+**but is intended for x86 / x86_64 systems**
+
 ### HOW TO USE:
 - download bootstrap.sh and put it on a usb drive
 - get the alpine stock image and flash it to another usb drive
@@ -41,8 +51,15 @@ this will then automagically:
 
 If you find a bug, or have a suggestion, don't hesitate to let me know.
 
+### DEFAULT KEYMAP & TIMEZONE: German
+
+### DEFAULT SYSTEM LANGUAGE: English
+
+### DEFAULT PASSWORD: 123
+**( ^ PLS CHANGE AFTER LOGIN ^ )**
+
 **THANKS TO EVERYONE WRITING SOFTWARE ON/WITH/FOR ALPINE LINUX !!**
 
-**also, thanks to my dad for the motivation.**
+**and, most importantly, thanks to my dad for giving me the motivation to make it work on x86**
 
 **Cheers, ConzZah**
