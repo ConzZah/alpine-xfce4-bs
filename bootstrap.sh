@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 # Author: ConzZah
-# Project: alpine-bs
+# Project: alpine-xfce4-bs
 # File: bootstrap.sh
 # /// bootstrap / pre-setup script ///
 
